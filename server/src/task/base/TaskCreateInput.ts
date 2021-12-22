@@ -1,0 +1,2 @@
+class TaskCreateInput {}
+export { TaskCreateInput };
