@@ -1,0 +1,2 @@
+class TaskUpdateInput {}
+export { TaskUpdateInput };
