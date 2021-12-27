@@ -1,0 +1,2 @@
+class TestCreateInput {}
+export { TestCreateInput };
