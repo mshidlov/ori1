@@ -1,0 +1,2 @@
+class TadaCreateInput {}
+export { TadaCreateInput };
