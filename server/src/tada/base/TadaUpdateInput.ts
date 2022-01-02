@@ -1,0 +1,2 @@
+class TadaUpdateInput {}
+export { TadaUpdateInput };
