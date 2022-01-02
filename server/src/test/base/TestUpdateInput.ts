@@ -1,0 +1,2 @@
+class TestUpdateInput {}
+export { TestUpdateInput };
